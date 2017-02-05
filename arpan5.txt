@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+
+    <title>Title</title>
+    <link rel="stylesheet" href="../dist/css/bootstrap-theme.css">
+    <link rel="stylesheet" href="../dist/css/bootstrap.css">
+    <script src="../dist/js/bootstrap.js"></script>
+    <link rel="stylesheet" href="../css/yellow.css">
+
+</head>
+<body>
+
+<nav class="navbar navbar-default na2">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#">My First Github Project</a>
+        </div>
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="http://google.com">Google</a></li>
+            <li><a href="#">Page 2</a></li>
+            <li><a href="#">Page 3</a></li>
+        </ul>
+    </div>
+</nav>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-4 na1"></div>
+        <div class="col-md-4 na1">
+
+
+            <img src="../images/download.jpg" class="img-circle img-responsive" height="177" width="284"/></div>
+
+    <div class="col-md-4 na1"></div>
+    </div>
+</div>
+
+<div class="container-fluid">
+<div class="row">
+    <div class="col-md-4 na5"></div>
+    <div class="col-md-4 na1"></div>
+    <div class="col-md-4 na5"></div>
+
+</div>
+</div>
+
+<h1>hello bae</h1>
+<h2><a href="http://google.com">df</a>
+   </body>
+</html>
